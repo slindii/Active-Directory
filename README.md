@@ -1,7 +1,9 @@
 # Active-Directory
+## Overview
+This project involved setting up an Active Directory server for SAM Company with four branches. The goal was to centralize user management, enforce department-specific policies, and ensure secure network operations.
 
 ## Objectives
-- Set up and configure an Active Directory (AD) server for a company.
+- Set up and configure an Active Directory (AD) server the SAM company.
 - Manage user accounts and departmental access across four branches.
 - Implement server administration policies (folder permissions, Run command restrictions, disk quotas).
 - Ensure secure and efficient network connectivity between branches.
@@ -33,5 +35,7 @@
 - Documented the network layout and subnetting plan (Class C range).
 - Recorded PowerShell commands used for each task as reference.
 
+## Reflection  
+Working on this project was my first experience setting up and managing an Active Directory server. I learned how to create and organize user accounts, apply group policies, and configure departmental access in a real-world scenario. It taught me the importance of planning network structures, documenting processes, and balancing GUI with PowerShell for efficiency. Most importantly, I gained confidence in server administration and problem-solving, which I can now apply to future IT projects.
 
 #### The lab was set up on a virtualbox.
