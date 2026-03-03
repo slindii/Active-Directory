@@ -1,4 +1,4 @@
-# Active-Directory
+# Active-Directory Lab
 ## Overview
 This project involved setting up an Active Directory server for SAM Company with four branches. The goal was to centralize user management, enforce department-specific policies, and ensure secure network operations.
 
