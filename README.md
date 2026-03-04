@@ -35,6 +35,8 @@ This project involved setting up an Active Directory server for SAM Company with
 - Documented the network layout and subnetting plan (Class C range).
 - Recorded PowerShell commands used for each task as reference.
 
+## Topology
+
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/417a87a5-d1a6-48bd-8f96-4655e12f6778" />
 
 
