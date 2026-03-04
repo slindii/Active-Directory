@@ -35,6 +35,9 @@ This project involved setting up an Active Directory server for SAM Company with
 - Documented the network layout and subnetting plan (Class C range).
 - Recorded PowerShell commands used for each task as reference.
 
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/417a87a5-d1a6-48bd-8f96-4655e12f6778" />
+
+
 ## Reflection  
 Working on this project was my first experience setting up and managing an Active Directory server. I learned how to create and organize user accounts, apply group policies, and configure departmental access in a real-world scenario. It taught me the importance of planning network structures, documenting processes, and balancing GUI with PowerShell for efficiency. Most importantly, I gained confidence in server administration and problem-solving, which I can now apply to future IT projects.
 
