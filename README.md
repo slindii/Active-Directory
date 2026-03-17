@@ -8,7 +8,7 @@ This project involved setting up an Active Directory server for SAM Company with
 - Implement server administration policies (folder permissions, Run command restrictions, disk quotas).
 - Ensure secure and efficient network connectivity between branches.
 
-## Skills Learned
+## Skills Demonstrated
 - Installing and configuring Active Directory.
 - Creating and managing user accounts and groups.
 - Applying Group Policy Objects (GPOs) to enforce department-specific rules.
